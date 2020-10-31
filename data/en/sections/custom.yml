@@ -1,0 +1,7 @@
+# section information
+section:
+  name: Contact Me
+  id: custom
+  enable: true
+  weight: 7
+  showOnNavbar: true
